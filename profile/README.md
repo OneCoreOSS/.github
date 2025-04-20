@@ -1,11 +1,7 @@
-# OneCore Open-Source Software
+![OneCore Open Source Software](https://github.com/OneCoreOSS/.github/blob/main/assets/oss.png) 
 
-> Explore the repositories powering the core components of OneCore Software such as OneCoreOS, OneCore Linux and much more.
+# OneCore Open Source Software
 
-## Licensing
-Most, if not all of the software created for OneCore will use the MIT License, third party components will be published with their appropriate licenses.
+> Discover the repositories that drive the essential components of our software, including OneCoreOS, OneCore Linux, and a variety of other integral systems.
 
-## Code Standards
-By default, source code created for OneCore will only be able to be built via the **OCBuild** file provided via the ``ocmake`` command.
-
-All projects providing an OCBuild file will require you to use the appropriate **OneCore SDK**
+Collaborate on a variety of projects that form the OneCore Ecosystem to create an ideal experience for all. Collaboration is crucial in building a stable and user-friendly environment !
